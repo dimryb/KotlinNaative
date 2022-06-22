@@ -1,6 +1,5 @@
 fun main(args: Array<String>) {
-    printArgs(args)
-    console()
+    printResult()
 }
 
 fun printArgs(args: Array<String>) {
