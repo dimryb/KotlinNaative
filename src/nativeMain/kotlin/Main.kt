@@ -1,5 +1,6 @@
 fun main(args: Array<String>) {
-    printResult()
+    printCompositionResult()
+    printCurriedResult()
 }
 
 fun printArgs(args: Array<String>) {
