@@ -1,7 +1,9 @@
 fun main(args: Array<String>) {
 //    printCompositionResult()
 //    printCurriedResult()
-    add_test()
+//    add_test()
+    makeString_test()
+
 }
 
 fun printArgs(args: Array<String>) {
