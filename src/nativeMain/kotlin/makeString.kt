@@ -20,6 +20,6 @@ fun <T> List<T>.tail(): List<T> =
     else
         this.drop(1)
 
-fun { makeString_test() }{
+fun makeString_test(){
     println(makeString(listOf("ab", "bc", "cd"), "|"))
 }
